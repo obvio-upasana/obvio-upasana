@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **finding CRISPR Off-Target Datasets for a project**
 
-- ⚡ Fun fact **Dragonfly larvae eat just about anything, including tadpoles, fish, mosquitoes, and even each other. Fascinating aviators with 95% success rate of hunting a prey.**
+- ⚡ Fun fact **Little-known base J, or ‘β-D-Glucopyranosyloxymethyluracil’ to give its full, unpronounceable name, is found in some parasites’ DNA, including trypanosomes and Leishmania.**
 
 
 <p align="left">
